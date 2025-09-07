@@ -19,9 +19,9 @@ This project explores ratings, genres, and popularity through engaging visuals d
 
 ## **🗂 Dataset**
 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Source:** Top Anime Dataset 2023 (Kaggle)
+- &nbsp;**Source:** Top Anime Dataset 2023 (Kaggle)
 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Key fields:** *Name, Rating, Genres, Type, Episodes, Members.*
+- &nbsp;**Key fields:** *Name, Rating, Genres, Type, Episodes, Members.*
 
 
 ## **🛠 Skills required**
