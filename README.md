@@ -33,3 +33,4 @@ This project explores ratings, genres, and popularity through engaging visuals d
 
 ## **📸 Screenshots**
 
+<img width="1426" height="798" alt="Image" src="https://github.com/user-attachments/assets/5546b08e-0198-4291-af03-ef4f4449f956" />
