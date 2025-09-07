@@ -36,9 +36,11 @@ This project explores ratings, genres, and popularity through engaging visuals d
 
 
 ## **📸 Screenshots**
-
+- #### Rating-wise visulaization
 &nbsp;<img width="1426" height="798" alt="Image" src="https://github.com/user-attachments/assets/5546b08e-0198-4291-af03-ef4f4449f956" />
+- #### Popularity VS Rating
 &nbsp;<img width="1117" height="628" alt="Image" src="https://github.com/user-attachments/assets/c7a41cda-51a0-43f2-b89a-a27e25cc9847" />
+- #### Word Count via bar graph
 &nbsp;<img width="1114" height="627" alt="Image" src="https://github.com/user-attachments/assets/22340f77-4a81-444b-9094-906be5277a2e" />
 ## **👩‍💻 Author**
 
