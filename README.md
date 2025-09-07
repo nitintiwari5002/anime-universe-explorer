@@ -1,52 +1,61 @@
+# 🌌 Anime Universe Explorer
 
-# **Anime Universe Explorer**
+A fun and interactive **Power BI dashboard** that visualizes the world of anime using the **Top Anime 2023 dataset (Kaggle)**.  
+Explore ratings, genres, and popularity through engaging visuals designed to make data exploration exciting.
 
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow?logo=power-bi)  
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
 
-A fun and interactive Power BI dashboard that visualizes the world of anime using the Top Anime 2023 dataset (Kaggle).
-This project explores ratings, genres, and popularity through engaging visuals designed to make data exploration exciting.
+---
 
+## ✨ Features
+- ⭐ **Genre Insights** → Radial-style chart showing average ratings across anime genres  
+- 📈 **Popularity vs Ratings** → Scatter plot comparing community popularity (*members*) with ratings  
+- 🔤 **Anime Title Keywords** → Word frequency analysis from anime titles (*word cloud style*)  
+- 🎨 **Eye-catching visuals** → Dark theme with bright anime-inspired accents  
 
-## ✨ **Features**
+---
 
-&nbsp;&nbsp;&nbsp;⭐ Genre Insights → Radial-style chart showing average ratings across anime genres. 
+## 🗂 Dataset
+- **Source:** [Top Anime Dataset 2023 – Kaggle](https://www.kaggle.com/datasets)  
+- **Key fields:** *Name, Rating, Genres, Type, Episodes, Members*  
 
-&nbsp;&nbsp;&nbsp;📈 Popularity vs Ratings → Scatter plot comparing community popularity (*members*) with ratings. 
+---
 
-&nbsp;&nbsp;&nbsp;🔤 Anime Title Keywords → Word frequency analysis from anime titles *(word cloud style)*.
+## 🔎 Why this project?
+- Quickly discover anime based on ratings and popularity  
+- Easily find titles worth watching  
+- Identify naming trends through word frequency analysis  
+- Gain insights into genre preferences within the anime community  
 
-&nbsp;&nbsp;&nbsp;🎨 Eye-catching visuals → Dark theme with bright anime-inspired accents.
+---
 
-
-## **🗂 Dataset**
-
-- &nbsp;&nbsp;&nbsp;&nbsp;**Source:** Top Anime Dataset 2023 (Kaggle)
-
-- &nbsp;&nbsp;&nbsp;&nbsp;**Key fields:** *Name, Rating, Genres, Type, Episodes, Members.*
-
-## **🔎 Useful Information**
-- &nbsp;Users can now get the information about the anime based on the rating.
-- &nbsp;It will become easier to find the desired anime to be watched for.
-- &nbsp;Final but not the least, it will be handy to get the Information about the desired anime.
-- &nbsp;One can now get the most words types by the user; helping him to name his new anime as per the information.
-
-## **🛠 Skills required**
-
+## 🛠 Skills & Tools
 - 🔧 **Power Query** – Data cleaning & transformation  
-- 📊 **Data Visualization** – Using Power BI to create interactive dashboards    
+- 📊 **Data Visualization** – Interactive dashboards with Power BI  
 - 🔄 **Data Transformation** – Aggregations, filtering, and reshaping  
 
+---
 
-## **📸 Screenshots**
-- #### Rating-wise visulaization
-&nbsp;<img width="1426" height="798" alt="Image" src="https://github.com/user-attachments/assets/5546b08e-0198-4291-af03-ef4f4449f956" />
-- #### Popularity VS Rating
-&nbsp;<img width="1117" height="628" alt="Image" src="https://github.com/user-attachments/assets/c7a41cda-51a0-43f2-b89a-a27e25cc9847" />
-- #### Word Count via bar graph
-&nbsp;<img width="1114" height="627" alt="Image" src="https://github.com/user-attachments/assets/22340f77-4a81-444b-9094-906be5277a2e" />
-## **👩‍💻 Author**
+## 📸 Screenshots
+#### Rating-wise visualization  
+<img width="1426" height="798" src="https://github.com/user-attachments/assets/5546b08e-0198-4291-af03-ef4f4449f956" />
 
-Made with 💖 by '**Nitin Tiwari**'
+#### Popularity vs Rating  
+<img width="1117" height="628" src="https://github.com/user-attachments/assets/c7a41cda-51a0-43f2-b89a-a27e25cc9847" />
 
-GitHub: @nitintiwari5002
+#### Word Count via Bar Graph  
+<img width="1114" height="627" src="https://github.com/user-attachments/assets/22340f77-4a81-444b-9094-906be5277a2e" />
 
-LinkedIn: https://www.linkedin.com/in/nitin-krishnakumar-tiwari-685557376
+---
+
+## 👩‍💻 Author
+Made with 💖 by **Nitin Tiwari**  
+
+- ### GitHub: @https://github.com/nitintiwari5002
+- ### LinkedIn: https://www.linkedin.com/in/nitin-krishnakumar-tiwari-685557376
+
+---
+
+## 📜 License
+This project is open source and available under the [MIT License](LICENSE).
