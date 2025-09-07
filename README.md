@@ -8,22 +8,28 @@ This project explores ratings, genres, and popularity through engaging visuals d
 
 ## ✨ **Features**
 
-```
-⭐ Genre Insights → Radial-style chart showing average ratings across anime genres. 
+&nbsp;&nbsp;&nbsp;⭐ Genre Insights → Radial-style chart showing average ratings across anime genres. 
 
-📈 Popularity vs Ratings → Scatter plot comparing community popularity (*members*) with ratings. 
+&nbsp;&nbsp;&nbsp;📈 Popularity vs Ratings → Scatter plot comparing community popularity (*members*) with ratings. 
 
-🔤 Anime Title Keywords → Word frequency analysis from anime titles *(word cloud style)*.
+&nbsp;&nbsp;&nbsp;🔤 Anime Title Keywords → Word frequency analysis from anime titles *(word cloud style)*.
 
-🎨 Eye-catching visuals → Dark theme with bright anime-inspired accents.
+&nbsp;&nbsp;&nbsp;🎨 Eye-catching visuals → Dark theme with bright anime-inspired accents.
 
-```
 
 ## **🗂 Dataset**
 
-```
-Source: Top Anime Dataset 2023 (Kaggle)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Source:** Top Anime Dataset 2023 (Kaggle)
 
-Key fields:*Name, Score, Genres, Type, Episodes, Members.*
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Key fields:** *Name, Rating, Genres, Type, Episodes, Members.*
 
-```
+
+## **🛠 Skills required**
+
+- 🔧 **Power Query** – Data cleaning & transformation  
+- 📊 **Data Visualization** – Using Power BI to create interactive dashboards  
+- 🔄 **Data Transformation** – Aggregations, filtering, and reshaping  
+
+
+## **📸 Screenshots**
+
