@@ -8,13 +8,13 @@ This project explores ratings, genres, and popularity through engaging visuals d
 
 ## ✨ **Features**
 
-&nbsp;&nbsp;&nbsp;⭐ Genre Insights → Radial-style chart showing average ratings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;across anime genres. 
+&nbsp;&nbsp;&nbsp;⭐ Genre Insights → Radial-style chart showing average ratings across anime genres. 
 
-&nbsp;&nbsp;&nbsp;📈 Popularity vs Ratings → Scatter plot comparing community &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;popularity (*members*) with ratings. 
+&nbsp;&nbsp;&nbsp;📈 Popularity vs Ratings → Scatter plot comparing community popularity (*members*) with ratings. 
 
-&nbsp;&nbsp;&nbsp;🔤 Anime Title Keywords → Word frequency analysis from anime &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;titles *(word cloud style)*.
+&nbsp;&nbsp;&nbsp;🔤 Anime Title Keywords → Word frequency analysis from anime titles *(word cloud style)*.
 
-&nbsp;&nbsp;&nbsp;🎨 Eye-catching visuals → Dark theme with bright anime-inspired &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;accents.
+&nbsp;&nbsp;&nbsp;🎨 Eye-catching visuals → Dark theme with bright anime-inspired accents.
 
 
 ## **🗂 Dataset**
@@ -24,14 +24,15 @@ This project explores ratings, genres, and popularity through engaging visuals d
 - &nbsp;&nbsp;&nbsp;&nbsp;**Key fields:** *Name, Rating, Genres, Type, Episodes, Members.*
 
 ## **🔎 Useful Information**
-- &nbsp;Users can now get the informationa about the anime based on the rating.
+- &nbsp;Users can now get the information about the anime based on the rating.
 - &nbsp;It will become easier to find the desired anime to be watched for.
 - &nbsp;Final but not the least, it will be handy to get the Information about the desired anime.
+- &nbsp;One can now get the most words types by the user; helping him to name his new anime as per the information.
 
 ## **🛠 Skills required**
 
 - 🔧 **Power Query** – Data cleaning & transformation  
-- 📊 **Data Visualization** – Using Power BI to create interactive dashboards  
+- 📊 **Data Visualization** – Using Power BI to create interactive dashboards    
 - 🔄 **Data Transformation** – Aggregations, filtering, and reshaping  
 
 
