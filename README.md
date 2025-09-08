@@ -49,6 +49,9 @@ Explore ratings, genres, and popularity through engaging visuals designed to mak
 
 ---
 
+## 📝 Summary 
+Anime movies are largely targeted toward teens (PG-13) and general audiences, making up over 65% of the content. Popularity strongly correlates with higher ratings, with Action, Adventure, and Drama standing out as the most engaging genres. Keyword patterns reveal frequent mentions of sequels, specials, and adaptations, underscoring the importance of franchise continuity in sustaining audience interest.
+
 ## 👩‍💻 Author
 Made with 💖 by **Nitin Tiwari**  
 
