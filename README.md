@@ -47,6 +47,11 @@ Explore ratings, genres, and popularity through engaging visuals designed to mak
 #### Word Count via Bar Graph  
 <img width="1114" height="627" src="https://github.com/user-attachments/assets/22340f77-4a81-444b-9094-906be5277a2e" />
 
+#### Anime type breakdown
+<img width="1156" height="747" alt="Image" src="https://github.com/user-attachments/assets/77591490-a461-4f41-b29d-a924f58026a6" />
+
+#### Top 10 anime by names based on genre
+
 ---
 
 ## 📝 Summary 
