@@ -51,8 +51,54 @@ Explore ratings, genres, and popularity through engaging visuals designed to mak
 <img width="1156" height="747" alt="Image" src="https://github.com/user-attachments/assets/77591490-a461-4f41-b29d-a924f58026a6" />
 
 #### Top 10 anime by names based on genre
-
+<img width="1338" height="752" alt="Image" src="https://github.com/user-attachments/assets/8120a4f8-9df5-41b9-9d75-8db7cf27cfcc" />
 ---
+
+## 🔹 Visualizations Included
+
+#### Rating-wise Visualization
+
+- Shows how anime ratings are distributed across genres and formats.
+
+- Helps identify which genres consistently perform better in terms of average score.
+
+#### Popularity vs Rating (Scatter Plot)
+
+- X-axis = Popularity (Members), Y-axis = Rating (Score).
+
+- Bubble size = Episodes, Color = Genre.
+
+- Logarithmic scaling + zoom/pan reveal clusters of cult favorites (high score, low popularity) vs mainstream hits (high popularity, average scores).
+
+#### Word Count in Titles (Bar Graph as Word Cloud)
+
+- Extracts keywords from anime titles and counts frequency.
+
+- Filtered to Top 20 words (excluding stopwords like “the”, “of”).
+
+- Mimics a word cloud effect with bold labels and short bars, showing common naming trends.
+
+#### Anime Type Breakdown
+
+- Donut visualization of anime formats (TV, Movie, OVA, Special, etc.).
+
+- Highlights how most anime are released as TV series, while OVAs and Movies form smaller portions.
+
+#### Top 10 Anime by Genre
+
+- Bar chart showing the top-rated or most popular anime per genre.
+
+- Acts as a quick reference leaderboard for standout titles in each category.
+
+## 🔹 Insights
+
+- Mainstream vs Cult → Some anime with high scores aren’t very popular, while mega-hits attract millions despite average ratings.
+
+- Genre Influence → Action/Fantasy dominate popularity, but genres like Drama and Psychological often achieve higher scores.
+
+- Title Trends → Words like “love”, “girl”, “story”, and “school” appear frequently in titles, showing common anime themes.
+
+- Formats → Majority of anime are TV shows, though movies and OVAs remain significant in numbers.
 
 ## 📝 Summary 
 Anime movies are largely targeted toward teens (PG-13) and general audiences, making up over 65% of the content. Popularity strongly correlates with higher ratings, with Action, Adventure, and Drama standing out as the most engaging genres. Keyword patterns reveal frequent mentions of sequels, specials, and adaptations, underscoring the importance of franchise continuity in sustaining audience interest.
